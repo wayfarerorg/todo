@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/wayfarerorg/todo/static/css/main.449ce23d.css",
+    "main.js": "/wayfarerorg/todo/static/js/main.f6bcc0f0.js",
+    "static/js/787.2843ca88.chunk.js": "/wayfarerorg/todo/static/js/787.2843ca88.chunk.js",
+    "static/media/delete.svg": "/wayfarerorg/todo/static/media/delete.7c228be695c11f912732b47784104350.svg",
+    "index.html": "/wayfarerorg/todo/index.html",
+    "static/media/revert.svg": "/wayfarerorg/todo/static/media/revert.74d214422cba601d0914891eccdbe4ef.svg",
+    "static/media/plus.svg": "/wayfarerorg/todo/static/media/plus.19bbb341fb5456e964a1569924f69873.svg",
+    "static/media/tick-green.svg": "/wayfarerorg/todo/static/media/tick-green.b01db653d28ca6c03db027cb8c88498d.svg",
+    "main.449ce23d.css.map": "/wayfarerorg/todo/static/css/main.449ce23d.css.map",
+    "main.f6bcc0f0.js.map": "/wayfarerorg/todo/static/js/main.f6bcc0f0.js.map",
+    "787.2843ca88.chunk.js.map": "/wayfarerorg/todo/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.449ce23d.css",
+    "static/js/main.f6bcc0f0.js"
+  ]
+}
